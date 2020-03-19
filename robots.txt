@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaigoneima.todastic.app/sitemap.xml
